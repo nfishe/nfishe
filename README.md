@@ -1,6 +1,6 @@
 👋 
 
-Hi, I’m Nick
+Hi, I’m Nicki
 
 <!---
 nfishe/nfishe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
